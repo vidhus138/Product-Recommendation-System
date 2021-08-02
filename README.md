@@ -1,1 +1,2 @@
 # Product-Recommendation-System
+Our project is based on the product recommendation system. It can be used to recommend products to customers of a general store on the basis of the frequently bought items in a season. The project uses the Apriori algorithm which is used to calculate the items that are bought more than the stated support count. It also uses techniques like hashing and partitioning to increase its efficiency.
